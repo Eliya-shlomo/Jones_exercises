@@ -20,7 +20,7 @@ node automation.js
 ```
 Employees = 51-500
 Reached the thank you page:
- https://test.netlify.app/thank-you.html?name=Israel+Israeli&email=...
+ https://test.netlify.app/thank-you.html?name=Israel+Israeli&email=....
 ```
 
 צילום המסך נשמר תחת `screenshots/before-submit-<timestamp>.png`.
