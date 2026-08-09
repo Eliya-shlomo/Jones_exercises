@@ -23,6 +23,5 @@ Reached the thank you page:
  https://test.netlify.app/thank-you.html?name=Israel+Israeli&email=...
 ```
 
-צילום המסך נשמר תחת `screenshots/before-submit-<timestamp>.png`.
-
-
+### screenshot:
+![Form before submit](./before-submit-example.png)
