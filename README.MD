@@ -7,6 +7,15 @@
 5. לוחצת על "Request a call back"
 6. מדפיסה ל-console כשמגיעה לעמוד ה-Thank You
 
+### Getting Started
+
+Prerequisites: Node.js 18+
+
+bash
+npm install
+npx playwright install chromium
+node automation.js
+
 ### output
 
 ```
